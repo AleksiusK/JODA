@@ -1,0 +1,3 @@
+# JODAopk
+
+Johdanto datatieteisiin oppimispäiväkirja
